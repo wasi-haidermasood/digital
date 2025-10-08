@@ -23,31 +23,31 @@ export default function SuccessStories() {
 
     const images = [
         {
-            src: '/images/google search console.jpg',
+            src: 'public/images/google-search-console.jpg',
             alt: 'Google Search Console Analytics Dashboard',
         },
         {
-            src: '/images/Order Sales Report.jpg',
+            src: '/public/images/Order-Sales-Report.jpg',
             alt: 'E-commerce Sales Performance Dashboard',
         },
         {
-            src: '/images/Dashboard ui_ux _ Finance Management _ Дашборд - Kristi Kamlykova.jpg',
+            src: 'public/images/dashborad.jpg',
             alt: 'Financial Management Dashboard',
         },
         {
-            src: '/images/I will manage and setup your facebook ads campaign efficiently.jpg',
+            src: 'public/images/facebook.jpg',
             alt: 'Facebook Ads Campaign Management',
         },
         {
-            src: '/images/Shopify sales Dashboard.jpg',
+            src: 'public/images/shopify.jpg',
             alt: 'Shopify Sales Analytics Dashboard',
         },
         {
-            src: '/images/SmartSheet Dashboard & Reporting Template - Professional Service + Templates.jpg',
+            src: 'public/images/smartsheet.jpg',
             alt: 'Professional Service Reporting Dashboard',
         },
         {
-            src: '/images/Order Sales Report.jpg',
+            src: 'public/images/smartsheet.jpg',
             alt: 'Sales Performance Metrics',
         },
     ];
