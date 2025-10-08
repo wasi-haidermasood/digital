@@ -21,31 +21,31 @@ export default function SuccessStories() {
 
 	const images = [
 		{
-			src: 'public/google search console.jpg',
+			src: 'https://unsplash.com/photos/black-flat-screen-computer-monitor-showing-data-charts-ZKNsV_GQkgE',
 			alt: 'Google Search Console Analytics Dashboard',
 		},
 		{
-			src: 'public/Order Sales Report.jpg',
+			src: 'https://unsplash.com/photos/silver-imac-near-white-ceramic-mug-7XKkJVw3bT4',
 			alt: 'E-commerce Sales Performance Dashboard',
 		},
 		{
-			src: 'public/Dashboard ui_ux _ Finance Management _ Дашборд - Kristi Kamlykova.jpg',
+			src: 'https://unsplash.com/photos/a-person-holding-a-magnifying-glass-over-a-chart-on-a-laptop-screen-7PqRZK6rbaE',
 			alt: 'Financial Management Dashboard',
 		},
 		{
-			src: 'public/I will manage and setup your facebook ads campaign efficiently.jpg',
+			src: 'https://unsplash.com/photos/black-smartphone-beside-white-ceramic-mug-social-media-icons-3Mhgvrk0LcQ',
 			alt: 'Facebook Ads Campaign Management',
 		},
 		{
-			src: 'public/Shopify sales Dashboard.jpg',
+			src: 'https://unsplash.com/photos/people-in-a-meeting-room-discussing-over-a-laptop-7PCPbSPYy_c',
 			alt: 'Shopify Sales Analytics Dashboard',
 		},
 		{
-			src: 'public/SmartSheet Dashboard & Reporting Template - Professional Service + Templates.jpg',
+			src: 'https://unsplash.com/photos/notebook-beside-the-laptop-ZKNsV_GQkgE',
 			alt: 'Professional Service Reporting Dashboard',
 		},
 		{
-			src: 'public/Order Sales Report.jpg',
+			src: 'phttps://unsplash.com/photos/person-using-macbook-pro-ZKNsV_GQkgE',
 			alt: 'Sales Performance Metrics',
 		},
 	];
