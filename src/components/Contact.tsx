@@ -64,7 +64,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      content: "hello@wasimarketingsolutions.com",
+      content: "hello@digitalsocialdreams.com",
       description: "Get a response within 24 hours"
     },
     {

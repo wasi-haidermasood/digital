@@ -10,21 +10,21 @@ const buttonVariants = cva(
     variants: {
       variant: {
         default: 
-          "bg-gradient-to-r from-blue-600 to-purple-600 text-white shadow-lg hover:shadow-xl hover:from-blue-700 hover:to-purple-700 hover:scale-105 hover:shadow-blue-500/25 active:scale-95",
+          "bg-gradient-to-r from-gray-900 to-gray-700 text-white shadow-lg hover:shadow-xl hover:from-gray-800 hover:to-gray-600 hover:scale-105 hover:shadow-gray-500/25 active:scale-95",
         destructive: 
           "bg-gradient-to-r from-red-500 to-pink-600 text-white shadow-lg hover:shadow-xl hover:from-red-600 hover:to-pink-700 hover:scale-105 hover:shadow-red-500/25 active:scale-95",
         outline: 
-          "border-2 border-gradient-to-r from-blue-400 to-purple-400 bg-transparent text-foreground hover:bg-gradient-to-r hover:from-blue-500/10 hover:to-purple-500/10 hover:border-blue-500 hover:scale-105 hover:shadow-lg active:scale-95",
+          "border-2 border-gradient-to-r from-gray-400 to-gray-300 bg-transparent text-foreground hover:bg-gradient-to-r hover:from-gray-500/10 hover:to-gray-400/10 hover:border-gray-500 hover:scale-105 hover:shadow-lg active:scale-95",
         secondary: 
           "bg-gradient-to-r from-gray-600 to-gray-700 text-white shadow-lg hover:shadow-xl hover:from-gray-700 hover:to-gray-800 hover:scale-105 hover:shadow-gray-500/25 active:scale-95",
         ghost: 
-          "text-foreground hover:bg-gradient-to-r hover:from-blue-500/10 hover:to-purple-500/10 hover:text-blue-600 hover:scale-105 active:scale-95",
+          "text-foreground hover:bg-gradient-to-r hover:from-gray-500/10 hover:to-gray-400/10 hover:text-gray-700 hover:scale-105 active:scale-95",
         link: 
-          "text-blue-600 underline-offset-4 hover:underline hover:text-blue-700 hover:scale-105 transition-transform",
+          "text-gray-700 underline-offset-4 hover:underline hover:text-gray-900 hover:scale-105 transition-transform",
         premium:
-          "bg-gradient-to-r from-amber-500 to-orange-600 text-white shadow-lg hover:shadow-xl hover:from-amber-600 hover:to-orange-700 hover:scale-105 hover:shadow-amber-500/30 active:scale-95 shadow-amber-500/20",
+          "bg-gradient-to-r from-gray-800 via-gray-600 to-gray-400 text-white shadow-lg hover:shadow-xl hover:from-gray-900 hover:via-gray-700 hover:to-gray-500 hover:scale-105 hover:shadow-gray-500/30 active:scale-95 shadow-gray-500/20",
         gradient:
-          "bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white shadow-lg hover:shadow-xl hover:from-blue-600 hover:via-purple-600 hover:to-pink-600 hover:scale-105 hover:shadow-purple-500/25 active:scale-95 bg-size-200 bg-pos-0 hover:bg-pos-100",
+          "bg-gradient-to-r from-gray-900 via-gray-700 to-gray-500 text-white shadow-lg hover:shadow-xl hover:from-gray-800 hover:via-gray-600 hover:to-gray-400 hover:scale-105 hover:shadow-gray-500/25 active:scale-95 bg-size-200 bg-pos-0 hover:bg-pos-100",
       },
       size: {
         default: "h-12 px-6 py-3",

@@ -268,7 +268,7 @@ const Hero = () => {
           <motion.p 
             className="text-base md:text-lg lg:text-xl text-gray-300 leading-relaxed" // Smaller text on mobile
           >
-            Wasi Marketing Solutions drives measurable growth through{" "}
+            DigitalSocialDreamss drives measurable growth through{" "}
             <motion.span 
               className="font-semibold text-blue-300"
               whileHover={{ scale: 1.05 }}
