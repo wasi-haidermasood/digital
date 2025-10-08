@@ -271,7 +271,7 @@ const Services = () => {
             { value: "24/7", label: "Monitoring" },
             { value: "90 Days", label: "Visible Results" }
           ],
-          image: "public/Best Seo Agency In Mohali.jpg"
+          image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
         },
       },
       {
@@ -295,7 +295,7 @@ const Services = () => {
             { value: "10K+", label: "Followers Monthly" },
             { value: "Real-time", label: "Analytics" }
           ],
-          image: "public/Social Media Post Design.jpg"
+          image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
         },
       },
       {
@@ -319,7 +319,7 @@ const Services = () => {
             { value: "24/7", label: "Campaign Management" },
             { value: "Real-time", label: "Optimization" }
           ],
-          image: "public/Meta Ads Management (Facebook & Instagram).jpg"
+          image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
         },
       },
       {
@@ -343,7 +343,7 @@ const Services = () => {
             { value: "50%", label: "Faster Load Time" },
             { value: "24/7", label: "Support" }
           ],
-          image: "public/Our agency will be your SEO agency and website optimization expert.jpg"
+          image: "https://images.unsplash.com/photo-1563017300-5a1d6b092e83?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
         },
       },
       {
@@ -367,7 +367,7 @@ const Services = () => {
             { value: "5-star", label: "Customer Rating" },
             { value: "30 Days", label: "Setup Time" }
           ],
-          image: "public/2021 Digital Marketing Activities to Boost Your E-commerce Business.jpg"
+          image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
         },
       },
       {
@@ -391,7 +391,7 @@ const Services = () => {
             { value: "99.9%", label: "Uptime" },
             { value: "24/7", label: "Security" }
           ],
-          image: "public/Cursos de Desenvolvimento Web.jpg"
+          image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
         },
       }
     ],
