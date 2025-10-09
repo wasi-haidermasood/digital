@@ -111,7 +111,7 @@ const Navigation = () => {
                 >
                   <Sparkles className="h-4 w-4 text-gray-900" />
                 </motion.div>
-                <span className="text-lg font-semibold text-gray-900">Digital Soical Dreams</span>
+                <span className="text-lg font-semibold text-gray-900">Digital Social Dreams</span>
               </motion.div>
 
               {/* Desktop Navigation */}

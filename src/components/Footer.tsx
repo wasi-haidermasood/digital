@@ -92,7 +92,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-1">
             <h3 className="text-2xl font-bold mb-6 bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent">
-              DigitalSocialDreamss
+              Digital Social Dreams
             </h3>
             <p className="mb-6 text-gray-300 leading-relaxed">
               Transforming businesses through innovative digital marketing strategies. 
@@ -201,7 +201,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-sm text-gray-400 mb-4 md:mb-0">
-              © {new Date().getFullYear()} DigitalSocialDreamss. All rights reserved.
+              © {new Date().getFullYear()} DigitalSocialDreams. All rights reserved.
             </div>
             
             <div className="flex items-center space-x-6">
